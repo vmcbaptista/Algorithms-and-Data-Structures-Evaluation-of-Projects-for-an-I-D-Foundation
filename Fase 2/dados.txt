@@ -1,0 +1,195 @@
+Projeto1
+Instituicao 1
+Investigador 1
+10
+Palavra 1 Proj1
+Palavra 2 Proj1
+Palavra 3 Proj1
+Palavra 4 Proj1
+Palavra 5 Proj1
+100
+500
+250
+300
+50
+1
+25
+5
+4
+3
+2
+1
+2
+3
+4
+5
+2
+4
+
+Projeto2
+Instituicao 2
+Investigador 2
+1
+Palavra 1 Proj2
+Palavra 2 Proj2
+Palavra 3 Proj2
+Palavra 4 Proj2
+Palavra 5 Proj2
+103
+501
+2333
+31
+503
+13
+2
+1
+1
+3
+1
+3
+2
+1
+2
+5
+1
+1
+
+Projeto3
+Instituicao 3
+Investigador 3
+12
+Palavra 1 Proj3
+Palavra 2 Proj3
+Palavra 3 Proj3
+Palavra 4 Proj3
+Palavra 5 Proj3
+3000
+200
+105
+345
+5120
+20
+4
+4
+5
+4
+4
+3
+4
+1
+3
+5
+2
+2
+
+Projeto4
+Instituicao 4
+Investigador 4
+12
+Palavra 1 Proj4
+Palavra 2 Proj4
+Palavra 3 Proj4
+Palavra 4 Proj4
+Palavra 5 Proj4
+1254
+200
+52
+1456
+104
+32
+4
+4
+2
+1
+3
+5
+4
+1
+3
+2
+2
+2
+
+Projeto5
+Instituicao 5
+Investigador 5
+24
+Palavra 1 Proj5
+Palavra 2 Proj5
+Palavra 3 Proj5
+Palavra 4 Proj5
+Palavra 5 Proj5
+1352
+100
+45
+32
+451
+365
+1
+3
+1
+2
+5
+3
+4
+2
+4
+4
+4
+1
+
+Projeto6
+Instituicao 6
+Investigador 6
+10
+Palavra 1 Proj6
+Palavra 2 Proj6
+Palavra 3 Proj6
+Palavra 4 Proj6
+Palavra 5 Proj6
+1234
+103
+64
+241
+1005
+145
+1
+3
+3
+5
+5
+4
+5
+5
+3
+3
+2
+2
+
+Projeto7
+Instituicao 7
+Investigador 7
+10
+Palavra 1 Proj7
+Palavra 2 Proj7
+Palavra 3 Proj7
+Palavra 4 Proj7
+Palavra 5 Proj7
+152
+3241
+452
+314
+1020
+321
+5
+4
+4
+4
+2
+3
+3
+1
+2
+1
+2
+1
